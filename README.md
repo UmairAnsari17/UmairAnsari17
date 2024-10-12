@@ -1,4 +1,4 @@
-                                                                  👋 Hi there, I’m Umair Ansari
+                                                            👋 Hi there, I’m Umair Ansari
 - 👀 I’m interested in finding meaningful insights from Data.
 - 🌱 I’m currently learning Data Analytics Using Python.
 - 📫 How to reach me :
