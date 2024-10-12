@@ -6,7 +6,7 @@
 - Socials:
 - https://www.instagram.com/nott_umaiirrr/
 - www.linkedin.com/in/umair-ansari17
-- https://x.com/UmxirAnsari?t=GES9zCopL8BENEUr9lFdgg&s=08
+- https://x.com/UmxirAnsari/
 
 <!---
 UmairAnsari17/UmairAnsari17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
