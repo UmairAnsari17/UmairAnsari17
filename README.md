@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics Using Python.
 - 📫 How to reach me :
 - Gmail - ua3286547@gmail.com
-- Socials:
+- 🌐Socials:
 - https://www.instagram.com/nott_umaiirrr/
 - www.linkedin.com/in/umair-ansari17
 - https://x.com/UmxirAnsari/
