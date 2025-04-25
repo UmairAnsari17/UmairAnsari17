@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜’𝗺 𝗨𝗺𝗮𝗶𝗿 𝗔𝗻𝘀𝗮𝗿𝗶<br>- 👀 I’m interested in finding meaningful insights from Data.<br>- 🌱 I’m currently learning Data Analytics Using Python.<br>- 🛜 Let's Connect...!<br><br>
+👋 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜’𝗺 𝗨𝗺𝗮𝗶𝗿 𝗔𝗻𝘀𝗮𝗿𝗶<br>- 👀 I’m interested in finding meaningful insights from Data.<br>- 🌱 Currently Cyber Security Intern at @MB-VV<br>- 🛜 Let's Connect...!<br><br>
 
 
 ## 🌐 Socials:
