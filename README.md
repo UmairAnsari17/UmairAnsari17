@@ -1,5 +1,5 @@
 # About Me:  [![WEBSITE](https://img.shields.io/badge/WEBSITE-black.svg?logo=website&logoColor=white)](https://umairansari.vercel.app)
-👋 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜’𝗺 𝗨𝗺𝗮𝗶𝗿 𝗔𝗻𝘀𝗮𝗿𝗶<br>- 👀 Software Developer and Data Engineer from India<br>- 🌱 Actively Exploring Data Engineering by doing hands-on practice, building projects and solving real-world problems!!<br>- 🛜 Let's Connect...<br><br>
+👋 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜’𝗺 𝗨𝗺𝗮𝗶𝗿 𝗔𝗻𝘀𝗮𝗿𝗶<br>- 👀 Software Developer and Data Engineer from India!<br>- 🛜 Let's Connect...<br><br>
 
 
 ## 🌐 Socials:
