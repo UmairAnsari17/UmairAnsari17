@@ -1,9 +1,9 @@
-# About Me:  [![WEBSITE](https://img.shields.io/badge/WEBSITE-black.svg?logo=website&logoColor=white)](https://umairansari.vercel.app)
+# About Me:  [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-D14836?logo=portfolio &logoColor=white)](https://umairansari.vercel.app)
 👋 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜’𝗺 𝗨𝗺𝗮𝗶𝗿 𝗔𝗻𝘀𝗮𝗿𝗶<br>- 👀 Software Developer and Data Engineer from India!<br>- 🛜 Let's Connect...<br><br>
 
 
 ## 🌐 Socials:
-[![WEBSITE](https://img.shields.io/badge/WEBSITE-black.svg?logo=website&logoColor=white)](https://umairansari.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umair-ansari17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UmxirAnsari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umairansari.py@gmail.com) 
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-D14836?logo=portfolio&logoColor=white)](https://umairansari.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umair-ansari17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UmxirAnsari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umairansari.py@gmail.com) 
 
 
 
